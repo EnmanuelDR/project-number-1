@@ -15,7 +15,7 @@ font-family:"calibriabove"}
   
 body{background-color:blue;
 background-image: url("https://www.spalding.com/on/demandware.static/-/Sites-spalding_us-Library/default/dw9e6180d8/images/basketballPicker/indoor.jpg");
-background-size:cover}   
+background-size:contain}   
 
 
 /* navbar styles*/

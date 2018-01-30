@@ -1,0 +1,18 @@
+/*phone*/
+@media (min-width:400px) {
+    h1{
+    background-color:blue;
+}
+}
+/*tablet*/
+@media (min-width:800px) {
+    h1{
+    background-color:purple;
+}
+}
+/*desktop*/
+@media (min-width:1024px) {
+    h1{
+    background-color:green;
+}
+}
