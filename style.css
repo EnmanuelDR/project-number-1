@@ -1,35 +1,29 @@
-h1{
-    color: #2557a8;
-    font-family: "Helvetica";
-}
-h2{color: #bc0d0d;
+h1{color: blue;
+  font-family: "Helvetica"}
+
+h2{color:blue;
     font-family:"algerian"}
-h2{color:#bc0d0d
+
+h3{color:blue;
 font-family:"algerian"}
-h3{color:yellow 
-font-family:"helvetica"}
-h4{color:red
-font-family:"calibri"}
-h5{color:yellow
-font-family:"calibriabove"}
-  
+
+
 body{background-color:blue;
-background-image: url("https://www.spalding.com/on/demandware.static/-/Sites-spalding_us-Library/default/dw9e6180d8/images/basketballPicker/indoor.jpg");
+background-image: url("https://www.lawinsport.com/media/zoo/images/Multiple_sports_on_black_background_b53a92eb1af5757073b0db7fc693a27e.jpg");
 background-size:cover;
 background-position:50% 50%;
 }   
-
 
 /* navbar styles*/
 
 header{background-color:#9ba1ef;
 }
 
-ul {list-style:none;
+ul {list-style:square;
 }
 
-li {list-style-type:none;
+li {list-style-type:circle;
     display:inline-block;
     padding: 0 15px;
-} 
+}
 /* End navbar styles */
